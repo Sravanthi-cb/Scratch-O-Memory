@@ -36,4 +36,4 @@ The game uses icons from the following website:
 
 ###### [Confetti] (https://cdn.jsdelivr.net/npm/canvas-confetti@0.0.3/dist/confetti.browser.min.js)
 
-###### [Live] ()
+###### [Live] (https://sravanthi-cb.github.io/Scratch-O-Memory/)
